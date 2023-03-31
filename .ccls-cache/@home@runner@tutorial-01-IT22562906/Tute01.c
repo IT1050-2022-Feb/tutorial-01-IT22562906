@@ -16,12 +16,12 @@ int main() {
   printf("Enter the number 2: ");
   scanf("%d", &num2);
 
-  // calculate the avg
+  //calculate the avg
   sum = num1 + num2;
   avg = sum / 2;
 
-  // printing the output
+  //printing the output
   printf("Average is %f: ", avg);
 
   return 0;
-} // end of the main funcion
+}//end of the main funcion
